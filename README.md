@@ -3,10 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies like Data Science, Machine Learning, Deep Learning, Blockchain, Full Stack Web Development.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Self Studying Computer Science, Statistics, ML, Web Development and many other technologies from Youtube and Blogs.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Cryptography and Artificial Intelligence.
+- ✍️ &nbsp; Working on my Articulation Skills and Jump Rope Combinations in my leizure time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
