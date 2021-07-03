@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies like Data Science, Machine Learning, Deep Learning, Blockchain, Full Stack Web Development.
 - 🎓 &nbsp; Self Studying Computer Science, Statistics, ML, Web Development and many other technologies from Youtube and Blogs.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Cryptography and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Cryptography, DSA and Artificial Intelligence.
 - ✍️ &nbsp; Working on my Articulation Skills and Jump Rope Combinations in my leizure time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
