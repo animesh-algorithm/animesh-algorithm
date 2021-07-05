@@ -55,7 +55,7 @@
   ![](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat)
   ![](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat)
   ![](https://img.shields.io/badge/-Data%20Visualization-333333?style=flat)
-  ![](https://img.shields.io/badge/-Blockchain%20Developer-333333?style=flat)
+  ![](https://img.shields.io/badge/-Blockchain-333333?style=flat)
 <br/>
 
 <a href="https://github.com/animesharma3">
