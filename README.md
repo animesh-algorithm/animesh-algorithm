@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Cryptography, Design Patterns and Artificial Intelligence.
 - ✍️ &nbsp; Working on my Articulation Skills and Jump Rope Combinations in my leizure time.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
