@@ -4,9 +4,8 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
 [<img height="30" src="https://img.shields.io/badge/Blog-grey.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][blog]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
+[<img height="30" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 [<img height="30" src="https://img.shields.io/badge/Hackerrank-gr.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
-[<img height="30" src="https://img.shields.io/badge/Geeksforgeeks-green.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />][gfg]
 
 ![alt text](https://github.com/animesharma3/animesharma3/blob/main/github_art.png?raw=true)
 
