@@ -7,7 +7,7 @@
 [<img height="30" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 [<img height="30" src="https://img.shields.io/badge/Hackerrank-gr.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
 
-![alt text](https://github.com/animesharma3/animesharma3/blob/main/github_art.png?raw=true)
+![alt text](https://github.com/animesharma3/animesharma3/blob/main/Animesh%20Sharma%20Channel%20Art%20-%20dashing-copy-cropped.png?raw=true)
 
 ### My Tech Stack 🧰
 
