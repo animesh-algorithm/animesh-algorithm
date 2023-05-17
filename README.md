@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am [Animesh Sharma](https://thisisanimeshsharma.herokuapp.com/)
+# Hi 👋 I am [Animesh Sharma](https://blog.animesharma3.com)
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
@@ -40,14 +40,6 @@
 - I also do problem solving on many platforms like Leetcode, GFG and Hackerrank and solved more than 300+ problems on all the platforms combined.
 - I also contribute to programming and data science community by doing live coding on [youtube][youtube], create tutorials and writing [blog][blog] post
 - When I am not working I usually spend my time working on my articulation skills, building a good physique and working on my Jump Rope Combos.
-  <!--* 🏠 Hogwarts House: Griffindor-->
-  <!--* If you play Call of Duty- add me: Blackhood@00-->
-  <!--* I am currently learning Docker-->
-  <!--* I’m currently working on my portfolio. -->
-  <!-- * Ask me about anything, I'll be happy to help.-->
-  <!-- -->
-  <!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
-
 ---
 
  <details>
