@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
 <img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="node" height="40"/> 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.png" alt="django" height="40"/> 
+<!-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.png" alt="django" height="40"/>  -->
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
