@@ -6,8 +6,9 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
 [<img height="30" src="https://img.shields.io/badge/Hackerrank-gr.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
-
+<!--
 ![alt text](https://github.com/animesh-algorithm/animesh-algorithm/raw/main/art)
+-->
 
 ### My Tech Stack 🧰
 
