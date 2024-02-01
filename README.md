@@ -43,7 +43,7 @@
 ---
 
  <details>
-<summary>📊 Github Stats</summary>
+<!-- <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=animesharma&show_icons=true&theme=gotham" alt="Animesh Sharma | Stats" />
 
@@ -54,15 +54,15 @@
 <a href="https://github.com/animesh-algorithm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=animesharma3&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesharma3&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 [twitter]: https://twitter.com/animesh-algo
-[youtube]: https://www.youtube.com/channel/UChT5WV2yvbwkwP3-deAHICg
+[youtube]: https://www.youtube.com/@animesh.algorithm
 [blog]: https://dev.to/animesharma3
 [gmail]: mailto:animesharma3@gmail.com
 [linkedin]: https://www.linkedin.com/in/animesharma3/
 [hackerrank]: https://www.hackerrank.com/animesharma3
-[leetcode]: https://leetcode.com/animesharma3/
+[leetcode]: https://leetcode.com/animesh-algorithm/
 [gfg]: https://auth.geeksforgeeks.org/user/animeshsharma6
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
