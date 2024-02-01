@@ -51,12 +51,12 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{animesharma3}/count.svg)
 
-<a href="https://github.com/animesharma3">
+<a href="https://github.com/animesh-algorithm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=animesharma3&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesharma3&theme=buefy&layout=compact" />
 </a>
 
-[twitter]: https://twitter.com/animesharma3
+[twitter]: https://twitter.com/animesh-algo
 [youtube]: https://www.youtube.com/channel/UChT5WV2yvbwkwP3-deAHICg
 [blog]: https://dev.to/animesharma3
 [gmail]: mailto:animesharma3@gmail.com
