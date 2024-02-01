@@ -41,9 +41,9 @@
 - I also contribute to programming and data science community by doing live coding on [youtube][youtube], create tutorials and writing [blog][blog] post
 - When I am not working I usually spend my time working on my articulation skills, building a good physique and working on my Jump Rope Combos.
 ---
-
+<!--
  <details>
-<!-- <summary>📊 Github Stats</summary>
+ <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=animesharma&show_icons=true&theme=gotham" alt="Animesh Sharma | Stats" />
 
