@@ -1,4 +1,4 @@
-# Hi 👋 I am [Animesh Sharma](https://blog.animesharma3.com)
+# Hi 👋 I am [Animesh Sharma](https://www.animesh.cc)
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
@@ -57,11 +57,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesharma3&theme=buefy&layout=compact" />
 </a> -->
 
-[twitter]: https://twitter.com/animesh-algo
+[twitter]: https://x.com/animesh_algo
 [youtube]: https://www.youtube.com/@animesh.algorithm
 [blog]: https://dev.to/animesharma3
 [gmail]: mailto:animesharma3@gmail.com
-[linkedin]: https://www.linkedin.com/in/animesharma3/
+[linkedin]: https://www.linkedin.com/in/animeshsharma42
 [hackerrank]: https://www.hackerrank.com/animesharma3
 [leetcode]: https://leetcode.com/animesh-algorithm/
 [gfg]: https://auth.geeksforgeeks.org/user/animeshsharma6
@@ -70,4 +70,4 @@
 
 ## About the creator
 
-Created by [Animesh Sharma](https://animesh.cc). For product design and development work, visit [Hire Animesh](https://hire.animesh.cc).
+Created by [Animesh Sharma](https://www.animesh.cc). For product design and development work, visit [Hire Animesh](https://hire.animesh.cc).
