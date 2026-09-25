@@ -67,3 +67,7 @@
 [gfg]: https://auth.geeksforgeeks.org/user/animeshsharma6
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+## About the creator
+
+Created by [Animesh Sharma](https://animesh.cc). For product design and development work, visit [Hire Animesh](https://hire.animesh.cc).
