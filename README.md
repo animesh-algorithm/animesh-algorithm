@@ -24,6 +24,17 @@ Give me the messy workflow, the missing context, the thing everyone keeps workin
 
 ---
 
+### How I work
+
+- **Give me the problem.** I don’t need a perfectly prepared PRD to get moving. I need a problem worth solving and access to the people who know it.
+- **I earn the context.** I read the code, talk to the customer, and question the assumptions. Missing information gives me somewhere to start.
+- **My range is my advantage.** I can follow a problem through the business, the product, and the system—and carry what I learn into the code.
+- **I build to find out.** A prototype makes an idea answerable. Put it in someone’s hands, see where it breaks, and make the next version better.
+- **I stay with the work.** Through the unclear requirement, the awkward integration, the bug after launch. Ownership means seeing it through.
+- **I want a hand in the direction.** I’ll challenge the plan, explain the tradeoff, and help shape the roadmap. Then I’ll do the work to back it up.
+
+---
+
 ### Selected work
 
 <table>
