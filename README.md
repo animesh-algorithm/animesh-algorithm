@@ -10,7 +10,9 @@ I find the problem, follow the threads, and build something useful. My work move
 
 Incomplete requirements invite better questions. Repetitive work invites a better system. I like starting with both, then staying close enough to see what happens after the software ships.
 
-[Portfolio](https://www.animesh.cc/) · [Work with me](https://hire.animesh.cc/) · [Résumé](https://www.animesh.cc/resume.pdf) · [Blog](https://blog.animesh.cc/)
+<a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Work with me — discuss your project" width="192" height="48"></a>
+
+[Portfolio](https://www.animesh.cc/) · [Résumé](https://www.animesh.cc/resume.pdf) · [Blog](https://blog.animesh.cc/)
 
 ---
 
@@ -107,4 +109,6 @@ Some problems become products. Others become pages. I write about software, auto
 
 A rough idea, a tangled workflow, a question worth following? [Let’s talk](mailto:hello.animeshsharma@gmail.com).
 
-[Work with me](https://hire.animesh.cc/) · [LinkedIn](https://www.linkedin.com/in/animeshsharma42) · [☕ Buy me a coffee](https://link.animesh.cc/coffee)
+<a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Work with me — discuss your project" width="192" height="48"></a>
+
+[LinkedIn](https://www.linkedin.com/in/animeshsharma42) · [☕ Buy me a coffee](https://link.animesh.cc/coffee)
