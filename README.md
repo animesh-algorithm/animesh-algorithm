@@ -55,48 +55,21 @@ Incomplete requirements invite better questions. Repetitive work invites a bette
 
 ### Tools I build with
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Languages</strong></p>
-      <p>TypeScript · JavaScript · Python · SQL</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>Web &amp; mobile</strong></p>
-      <p>React · Next.js · React Native · Vite · React Router</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Interface &amp; interaction</strong></p>
-      <p>Tailwind CSS · shadcn/ui · Framer Motion · CSS design tokens</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>Backend &amp; APIs</strong></p>
-      <p>Node.js · Fastify · REST APIs · WebSocket · OAuth</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Databases &amp; storage</strong></p>
-      <p>PostgreSQL · SQLite · Turso / libSQL · Drizzle ORM · Firestore · IndexedDB / Dexie · S3</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>AI &amp; machine learning</strong></p>
-      <p>OpenAI · LangChain · LlamaIndex · Transformers.js · Pinecone<br>RAG · AI agents · embeddings · semantic search · clustering · AI evaluations</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Automation &amp; integrations</strong></p>
-      <p>Puppeteer · Redis · BullMQ · Inngest · Spotify API · Front API · ACH payments · insurance carrier integrations</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>Cloud &amp; delivery</strong></p>
-      <p>Google Cloud · Firebase · Vercel · Docker · Git / GitHub</p>
-    </td>
-  </tr>
-</table>
+**Languages** — TypeScript · JavaScript · Python · SQL
+
+**Web & mobile** — React · Next.js · React Native · Vite · React Router
+
+**Interface & interaction** — Tailwind CSS · shadcn/ui · Framer Motion · CSS design tokens
+
+**Backend & APIs** — Node.js · Fastify · REST APIs · WebSocket · OAuth
+
+**Databases & storage** — PostgreSQL · SQLite · Turso / libSQL · Drizzle ORM · Firestore · IndexedDB / Dexie · S3
+
+**AI & machine learning** — OpenAI · LangChain · LlamaIndex · Transformers.js · Pinecone · RAG · AI agents · embeddings · semantic search · clustering · AI evaluations
+
+**Automation & integrations** — Puppeteer · Redis · BullMQ · Inngest · Spotify API · Front API · ACH payments · insurance carrier integrations
+
+**Cloud & delivery** — Google Cloud · Firebase · Vercel · Docker · Git / GitHub
 
 ### Notes & rabbit holes
 
