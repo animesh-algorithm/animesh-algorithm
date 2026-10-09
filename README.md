@@ -12,7 +12,7 @@ At Gradly, I went from founding engineer to Technical Lead to Chief of Staff. I 
 
 **I build. And my range is my advantage.**
 
-I can talk to the customer, understand the business, shape the product, architect the system, and ship the code. **Conversation to code. Ambiguity to architecture. Problem to production.**
+I can go from Conversation to code. Ambiguity to architecture. Problem to production.
 
 Give me the messy workflow, the missing context, the thing everyone keeps working around. I’ll read the code, ask the questions, and follow the friction until the problem makes sense. Then I’ll build—and stay close enough to learn what the first version got wrong.
 
