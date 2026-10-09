@@ -18,7 +18,7 @@ Give me the messy workflow, the missing context, the thing everyone keeps workin
 
 **Give me the problem.**
 
-[Portfolio](https://www.animesh.cc/) · [Résumé](https://www.animesh.cc/resume.pdf) · [Blog](https://blog.animesh.cc/)
+<a href="https://www.animesh.cc/"><img src="assets/portfolio-icon.svg" alt="" width="18" height="18"> Portfolio</a> · [Résumé](https://www.animesh.cc/resume.pdf) · [Blog](https://blog.animesh.cc/)
 
 <a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Hire Animesh — discuss your project" width="192" height="48"></a>
 
@@ -114,4 +114,4 @@ That’s the work I’m looking for. Bring the rough idea, the tangled workflow,
 
 <a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Hire Animesh — discuss your project" width="192" height="48"></a>
 
-[LinkedIn](https://www.linkedin.com/in/animeshsharma42) · [☕ Buy me a coffee](https://link.animesh.cc/coffee)
+<a href="https://www.linkedin.com/in/animeshsharma42"><img src="assets/linkedin-icon.svg" alt="" width="18" height="18"> LinkedIn</a> · [☕ Buy me a coffee](https://link.animesh.cc/coffee)
