@@ -1,73 +1,79 @@
-# Hi 👋 I am [Animesh Sharma](https://www.animesh.cc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Abstract composition of a rust-colored sun, architectural arches, and intersecting paths on warm paper." width="100%">
+</picture>
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
-[<img height="30" src="https://img.shields.io/badge/Blog-grey.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][blog]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img height="30" src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />][leetcode]
-[<img height="30" src="https://img.shields.io/badge/Hackerrank-gr.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />][hackerrank]
-<!--
-![alt text](https://github.com/animesh-algorithm/animesh-algorithm/raw/main/art)
--->
+# Animesh Sharma — Engineer with product sense.
 
-### My Tech Stack 🧰
+I find the problem, follow the threads, and build something useful. My work moves between software, AI, and automation—and between the product people see and the systems that make it work.
 
-<p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="js" height="40"/> 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="R" height="40"/> 
-<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
-<img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="node" height="40"/> 
-<!-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/django-icon.png" alt="django" height="40"/>  -->
-<img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="40" height="40"/>
-<img src="https://cdn-images-1.medium.com/max/1200/1*z0grEcFmF5wUdY8JGVOmiw.png" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="PostGreSQL" width="40" height="40"/>
+Incomplete requirements invite better questions. Repetitive work invites a better system. I like starting with both, then staying close enough to see what happens after the software ships.
 
-</p>
+[Portfolio](https://www.animesh.cc/) · [Work with me](https://hire.animesh.cc/) · [Résumé](https://www.animesh.cc/resume.pdf) · [Blog](https://blog.animesh.cc/)
 
-- I am self taught Programmer, Full Stack Web Developer and Data Scientist.
-- Earned Gold badge & 5 star at HackerRank in Python and SQL.
-- I am currently working as an Independent Contractor | Software Developer at Gradly and also pursuing my Master’s from SVVV.
-- I have around 75+ Github Repositories and more than 500+ contributions including some open source contributions.
-- I also do problem solving on many platforms like Leetcode, GFG and Hackerrank and solved more than 300+ problems on all the platforms combined.
-- I also contribute to programming and data science community by doing live coding on [youtube][youtube], create tutorials and writing [blog][blog] post
-- When I am not working I usually spend my time working on my articulation skills, building a good physique and working on my Jump Rope Combos.
 ---
-<!--
- <details>
- <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=animesharma&show_icons=true&theme=gotham" alt="Animesh Sharma | Stats" />
+### Selected work
 
-</details>
+**[Gradly](https://insurance.gradly.us/)** · Product, engineering & operations
 
-![Visitor Count](https://profile-counter.glitch.me/{animesharma3}/count.svg)
+Founding engineer, Technical Lead, Chief of Staff: the scope grew, and I kept building. At Gradly, I’ve worked across student health insurance—from web and mobile products to member dashboards, carrier integrations, and internal tools. Support, claims, payments: each brings its own complexity. My work connects the customer experience to the operations behind it.
 
-<a href="https://github.com/animesh-algorithm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=animesharma3&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesharma3&theme=buefy&layout=compact" />
-</a> -->
+**[VisaFile](https://github.com/animesh-algorithm/visafile)** · Application automation
 
-[twitter]: https://x.com/animesh_algo
-[youtube]: https://www.youtube.com/@animesh.algorithm
-[blog]: https://dev.to/animesharma3
-[gmail]: mailto:animesharma3@gmail.com
-[linkedin]: https://www.linkedin.com/in/animeshsharma42
-[hackerrank]: https://www.hackerrank.com/animesharma3
-[leetcode]: https://leetcode.com/animesh-algorithm/
-[gfg]: https://auth.geeksforgeeks.org/user/animeshsharma6
+A long form, a brittle process, a more considered path through it. VisaFile turns guided intake into an automated DS-160 application run, pausing for CAPTCHA and live corrections. The user stays involved at the points that need their attention; the worker carries the answers through the form.
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+[Explore](https://visafile-phi.vercel.app/) · [Source](https://github.com/animesh-algorithm/visafile)
 
-## About the creator
+**[Sortify](https://github.com/animesh-algorithm/sortify)** · Music & machine learning
 
-Created by [Animesh Sharma](https://www.animesh.cc). For product design and development work, visit [Hire Animesh](https://hire.animesh.cc).
+A new way back to old favorites. Sortify finds musical patterns in a Spotify library and turns them into playlist drafts. Review them, reshape them, approve them—then create new private playlists. The library supplies the songs; the listener gets the last word.
+
+[Explore](https://sortifi.vercel.app/) · [Source](https://github.com/animesh-algorithm/sortify)
+
+**[Crate](https://github.com/animesh-algorithm/crate)** · Private libraries & on-device AI
+
+Saved for a reason. Found when you need it. Crate turns an Instagram export into a private library of collections, notes, and searchable saves. Semantic search runs on-device to surface related captions and notes. Suggested collections stay drafts until you save them: a little help finding order in everything worth keeping.
+
+[Explore](https://crate-nu-lilac.vercel.app/) · [Source](https://github.com/animesh-algorithm/crate)
+
+### Tools I build with
+
+**Languages**  
+TypeScript · JavaScript · Python · SQL
+
+**Web & mobile**  
+React · Next.js · React Native · Vite · React Router
+
+**Interface & interaction**  
+Tailwind CSS · shadcn/ui · Framer Motion · CSS design tokens
+
+**Backend & APIs**  
+Node.js · Fastify · REST APIs · WebSocket · OAuth
+
+**Databases & storage**  
+PostgreSQL · SQLite · Turso / libSQL · Drizzle ORM · Firestore · IndexedDB / Dexie · S3
+
+**AI & machine learning**  
+OpenAI · LangChain · LlamaIndex · Transformers.js · Pinecone  
+RAG · AI agents · embeddings · semantic search · clustering · AI evaluations
+
+**Automation & integrations**  
+Puppeteer · Redis · BullMQ · Inngest · Spotify API · Front API · ACH payments · insurance carrier integrations
+
+**Cloud & delivery**  
+Google Cloud · Firebase · Vercel · Docker · Git / GitHub
+
+### Notes & rabbit holes
+
+Some problems become products. Others become pages. I write about software, automation, and the decisions that shape what we build.
+
+- [Prototype before architecture](https://blog.animesh.cc/prototype-before-architecture)
+- [I don’t automate tasks. I automate roles.](https://blog.animesh.cc/i-dont-automate-tasks-i-automate-roles)
+
+---
+
+A rough idea, a tangled workflow, a question worth following? [Let’s talk](mailto:hello.animeshsharma@gmail.com).
+
+[Work with me](https://hire.animesh.cc/) · [LinkedIn](https://www.linkedin.com/in/animeshsharma42)

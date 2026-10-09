@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Warm paper — an abstract study</title>
+  <desc id="desc">A rust sun, architectural arches, and intersecting paths suggest ideas taking shape.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#C9BEB0" stroke-width=".5" opacity=".3"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="298" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="#F4EFE5" d="M0 0h1200v300H0z"/>
+    <path fill="url(#grid)" d="M0 0h1200v300H0z"/>
+    <circle cx="926" cy="116" r="64" fill="#A84E36"/>
+    <path d="M764 301V173a112 112 0 0 1 224 0v128" fill="#E6D9C8"/>
+    <path d="M799 301V177a77 77 0 0 1 154 0v124" fill="#F4EFE5"/>
+    <path d="M1038 302V200a68 68 0 0 1 136 0v102" fill="#302E2A"/>
+    <path d="M1062 302V201a44 44 0 0 1 88 0v101" fill="#F4EFE5"/>
+    <g fill="none" stroke="#302E2A" stroke-width="1.25" opacity=".65">
+      <path d="M65 217H429c80 0 94-134 194-134h147"/>
+      <path d="M65 229H429c80 0 94-134 194-134h125"/>
+      <path d="M65 241H429c80 0 94-134 194-134h103"/>
+    </g>
+    <path d="M81 64h50v50H81z" fill="none" stroke="#A84E36" stroke-width="1.5"/>
+    <path d="M106 53v72M70 89h72" stroke="#A84E36" stroke-width="1"/>
+    <circle cx="429" cy="229" r="5" fill="#A84E36"/>
+    <g stroke="#C9BEB0" stroke-width="1"><path d="M201 79h212M201 91h146"/><path d="M551 242h127M551 254h81"/></g>
+    <circle cx="670" cy="175" r="19" fill="none" stroke="#A84E36" stroke-width="1.25"/>
+    <path d="M670 143v64M638 175h64" stroke="#A84E36" stroke-width=".75"/>
+    <path d="M0 283h1200" stroke="#C9BEB0" stroke-width=".75"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="12" fill="none" stroke="#C9BEB0" stroke-width="1"/>
+</svg>
