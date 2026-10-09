@@ -16,54 +16,81 @@ Incomplete requirements invite better questions. Repetitive work invites a bette
 
 ### Selected work
 
-**[Gradly](https://insurance.gradly.us/)** · Product, engineering & operations
-
-Founding engineer, Technical Lead, Chief of Staff: the scope grew, and I kept building. At Gradly, I’ve worked across student health insurance—from web and mobile products to member dashboards, carrier integrations, and internal tools. Support, claims, payments: each brings its own complexity. My work connects the customer experience to the operations behind it.
-
-**[VisaFile](https://github.com/animesh-algorithm/visafile)** · Application automation
-
-A long form, a brittle process, a more considered path through it. VisaFile turns guided intake into an automated DS-160 application run, pausing for CAPTCHA and live corrections. The user stays involved at the points that need their attention; the worker carries the answers through the form.
-
-[Explore](https://visafile-phi.vercel.app/) · [Source](https://github.com/animesh-algorithm/visafile)
-
-**[Sortify](https://github.com/animesh-algorithm/sortify)** · Music & machine learning
-
-A new way back to old favorites. Sortify finds musical patterns in a Spotify library and turns them into playlist drafts. Review them, reshape them, approve them—then create new private playlists. The library supplies the songs; the listener gets the last word.
-
-[Explore](https://sortifi.vercel.app/) · [Source](https://github.com/animesh-algorithm/sortify)
-
-**[Crate](https://github.com/animesh-algorithm/crate)** · Private libraries & on-device AI
-
-Saved for a reason. Found when you need it. Crate turns an Instagram export into a private library of collections, notes, and searchable saves. Semantic search runs on-device to surface related captions and notes. Suggested collections stay drafts until you save them: a little help finding order in everything worth keeping.
-
-[Explore](https://crate-nu-lilac.vercel.app/) · [Source](https://github.com/animesh-algorithm/crate)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Gradly</h3>
+      <p><sub>Product, engineering &amp; operations</sub></p>
+      <p>Founding engineer, Technical Lead, Chief of Staff: the scope grew, and I kept building. Web and mobile products, carrier integrations, internal tools, and AI-assisted workflows connect the customer experience to the operations behind it.</p>
+      <p><a href="https://insurance.gradly.us/">Explore</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VisaFile</h3>
+      <p><sub>Application automation</sub></p>
+      <p>A long form, a more considered path through it. Guided intake becomes an automated DS-160 application run, pausing for CAPTCHA and live corrections. The worker carries the answers; the user stays involved.</p>
+      <p><a href="https://visafile-phi.vercel.app/">Explore</a> · <a href="https://github.com/animesh-algorithm/visafile">Source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Sortify</h3>
+      <p><sub>Music &amp; machine learning</sub></p>
+      <p>A new way back to old favorites. Musical patterns become Spotify playlist drafts. Review them, reshape them, approve them—then create new private playlists. The library supplies the songs; the listener gets the last word.</p>
+      <p><a href="https://sortifi.vercel.app/">Explore</a> · <a href="https://github.com/animesh-algorithm/sortify">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Crate</h3>
+      <p><sub>Private libraries &amp; on-device AI</sub></p>
+      <p>Saved for a reason. Found when you need it. An Instagram export becomes a private library of collections, notes, and searchable saves. Semantic search runs on-device; suggested collections stay drafts until you save them.</p>
+      <p><a href="https://crate-nu-lilac.vercel.app/">Explore</a> · <a href="https://github.com/animesh-algorithm/crate">Source</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Tools I build with
 
-**Languages**  
-TypeScript · JavaScript · Python · SQL
-
-**Web & mobile**  
-React · Next.js · React Native · Vite · React Router
-
-**Interface & interaction**  
-Tailwind CSS · shadcn/ui · Framer Motion · CSS design tokens
-
-**Backend & APIs**  
-Node.js · Fastify · REST APIs · WebSocket · OAuth
-
-**Databases & storage**  
-PostgreSQL · SQLite · Turso / libSQL · Drizzle ORM · Firestore · IndexedDB / Dexie · S3
-
-**AI & machine learning**  
-OpenAI · LangChain · LlamaIndex · Transformers.js · Pinecone  
-RAG · AI agents · embeddings · semantic search · clustering · AI evaluations
-
-**Automation & integrations**  
-Puppeteer · Redis · BullMQ · Inngest · Spotify API · Front API · ACH payments · insurance carrier integrations
-
-**Cloud & delivery**  
-Google Cloud · Firebase · Vercel · Docker · Git / GitHub
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Languages</strong></p>
+      <p>TypeScript · JavaScript · Python · SQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Web &amp; mobile</strong></p>
+      <p>React · Next.js · React Native · Vite · React Router</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Interface &amp; interaction</strong></p>
+      <p>Tailwind CSS · shadcn/ui · Framer Motion · CSS design tokens</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Backend &amp; APIs</strong></p>
+      <p>Node.js · Fastify · REST APIs · WebSocket · OAuth</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Databases &amp; storage</strong></p>
+      <p>PostgreSQL · SQLite · Turso / libSQL · Drizzle ORM · Firestore · IndexedDB / Dexie · S3</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>AI &amp; machine learning</strong></p>
+      <p>OpenAI · LangChain · LlamaIndex · Transformers.js · Pinecone<br>RAG · AI agents · embeddings · semantic search · clustering · AI evaluations</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Automation &amp; integrations</strong></p>
+      <p>Puppeteer · Redis · BullMQ · Inngest · Spotify API · Front API · ACH payments · insurance carrier integrations</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Cloud &amp; delivery</strong></p>
+      <p>Google Cloud · Firebase · Vercel · Docker · Git / GitHub</p>
+    </td>
+  </tr>
+</table>
 
 ### Notes & rabbit holes
 
