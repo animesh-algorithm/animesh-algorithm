@@ -67,31 +67,24 @@ Give me the messy workflow, the missing context, the thing everyone keeps workin
 
 **Languages** — TypeScript · JavaScript · Python · SQL
 
----
 
 **Web & mobile** — React · Next.js · React Native · Vite · React Router
 
----
 
 **Interface & interaction** — Tailwind CSS · shadcn/ui · Framer Motion · CSS design tokens
 
----
 
 **Backend & APIs** — Node.js · Fastify · REST APIs · WebSocket · OAuth
 
----
 
 **Databases & storage** — PostgreSQL · SQLite · Turso / libSQL · Drizzle ORM · Firestore · IndexedDB / Dexie · S3
 
----
 
 **AI & machine learning** — OpenAI · LangChain · LlamaIndex · Transformers.js · Pinecone · RAG · AI agents · embeddings · semantic search · clustering · AI evaluations
 
----
 
 **Automation & integrations** — Puppeteer · Redis · BullMQ · Inngest · Spotify API · Front API · ACH payments · insurance carrier integrations
 
----
 
 **Cloud & delivery** — Google Cloud · Firebase · Vercel · Docker · Git / GitHub
 
