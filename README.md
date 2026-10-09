@@ -10,9 +10,9 @@ I find the problem, follow the threads, and build something useful. My work move
 
 Incomplete requirements invite better questions. Repetitive work invites a better system. I like starting with both, then staying close enough to see what happens after the software ships.
 
-<a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Work with me — discuss your project" width="192" height="48"></a>
-
 [Portfolio](https://www.animesh.cc/) · [Résumé](https://www.animesh.cc/resume.pdf) · [Blog](https://blog.animesh.cc/)
+
+<a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Hire Animesh — discuss your project" width="192" height="48"></a>
 
 ---
 
@@ -93,6 +93,8 @@ Incomplete requirements invite better questions. Repetitive work invites a bette
 
 Some problems become products. Others become pages. I write about software, automation, and the decisions that shape what we build.
 
+[Read the blog ↗](https://blog.animesh.cc/)
+
 - [Prototype before architecture](https://blog.animesh.cc/prototype-before-architecture)
 - [I don’t automate tasks. I automate roles.](https://blog.animesh.cc/i-dont-automate-tasks-i-automate-roles)
 
@@ -100,6 +102,6 @@ Some problems become products. Others become pages. I write about software, auto
 
 A rough idea, a tangled workflow, a question worth following? [Let’s talk](mailto:hello.animeshsharma@gmail.com).
 
-<a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Work with me — discuss your project" width="192" height="48"></a>
+<a href="https://hire.animesh.cc/"><img src="assets/work-with-me.svg" alt="Hire Animesh — discuss your project" width="192" height="48"></a>
 
 [LinkedIn](https://www.linkedin.com/in/animeshsharma42) · [☕ Buy me a coffee](https://link.animesh.cc/coffee)
