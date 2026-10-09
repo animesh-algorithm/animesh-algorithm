@@ -93,10 +93,10 @@ Incomplete requirements invite better questions. Repetitive work invites a bette
 
 Some problems become products. Others become pages. I write about software, automation, and the decisions that shape what we build.
 
-[Read the blog ↗](https://blog.animesh.cc/)
-
 - [Prototype before architecture](https://blog.animesh.cc/prototype-before-architecture)
 - [I don’t automate tasks. I automate roles.](https://blog.animesh.cc/i-dont-automate-tasks-i-automate-roles)
+
+[Rest of the notebook ↗](https://blog.animesh.cc/)
 
 ---
 
