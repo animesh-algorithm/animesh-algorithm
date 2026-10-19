@@ -40,7 +40,7 @@ Give me the messy workflow, the missing context, the thing everyone keeps workin
       <h3>VisaFile</h3>
       <p><sub>Application automation</sub></p>
       <p>The same answers. The same fields. Hours of repetition. I built VisaFile to carry guided intake through an automated DS-160 application run, pausing for CAPTCHA and live corrections. Software handles the repetition. You handle the moments that need you.</p>
-      <p><a href="https://visafile-phi.vercel.app/">Explore</a> · <a href="https://github.com/animesh-algorithm/visafile">Source</a></p>
+      <p><a href="https://visafile-phi.vercel.app/">Explore</a> · <a href="https://youtu.be/sQGvsXneqL4">Watch demo</a> · <a href="https://github.com/animesh-algorithm/visafile">Source</a></p>
     </td>
   </tr>
   <tr>
